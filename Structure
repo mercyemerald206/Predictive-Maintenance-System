@@ -1,0 +1,12 @@
+predictive-maintenance/
+├── data/
+│   └── sensor_data.csv
+├── pipelines/
+│   ├── preprocess.py
+│   └── train.py
+├── model/
+│   └── lstm_model.h5
+├── api/
+│   └── main.py
+├── requirements.txt
+└── README.md
