@@ -1,0 +1,5 @@
+temperature,voltage,failure
+30,220,0
+85,230,1
+60,215,0
+90,240,1
